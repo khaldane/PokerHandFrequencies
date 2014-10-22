@@ -1,0 +1,6 @@
+1) Output generated should include the number of processes involved 
+2) Prallel program must be scalable from one process up to any number of processes (automatically occurs from following above instructions)
+3) No other means of communication ther than MPI may be used between processes
+4) full marks arallel should meet basic requirements
+> small number of processes on sharnet must be completed the simulation significantly faster than serial
+> demonstrate general  speedup effect as number of proceses is increased (up to 10 processes)

@@ -1,0 +1,8 @@
+Question 5: additional requirements
+1) Report elapsed time in seconds required to complete the simulation loop (Question 3 ONLY)
+2) Program must compile and execute on sharcnet mako cluster
+3) Progam must NOT depend on any addition libraries or APIs other than those included by default when building
+   with sharcnet's standard mpiCC command
+4) Relative frequencies producted should be similar to the expected values
+   http://en.wikipedia.org/wiki/Poker_probability#Frequency_of_5-card_poker_hands
+5) Each time program is executed it should generate a unique sequence of poker hands (ie. not exactly the same as the previous result)
